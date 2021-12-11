@@ -1,0 +1,13 @@
+/* Styles go here */
+.navbar-light .navbar-brand{
+    color: rgb(94, 94, 189);
+    text-align: right;
+}
+
+.container-fluid{
+    background: linear-gradient(to bottom right, #dcdf5d 0%, #315cac 100%);
+}
+
+td{
+    background-color: white;
+}
